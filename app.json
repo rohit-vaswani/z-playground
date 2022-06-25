@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "zepto-playground",
+    "slug": "zepto-playground",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "zepto-playground"
+}
